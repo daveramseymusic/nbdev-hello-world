@@ -21,3 +21,20 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+# Exciting Library???
+
+> This dumb library(?) allows you to do cool things like say “hello…” so
+> exiting!
+
+------------------------------------------------------------------------
+
+<a
+href="https://github.com/daveramseymusic/nbdev-hello-world/blob/main/nbdev_hello_world/dave.py#L10"
+target="_blank" style="float:right; font-size:smaller">source</a>
+
+### say_hello
+
+>      say_hello (to)
+
+Function: Say hello to someone
